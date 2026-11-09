@@ -1,4 +1,5 @@
 # Smart Telecom --- Mobile & Gadgets E-Commerce Website
+<img width="1672" height="941" alt="Smart Telecom Purple Website Showcase" src="https://github.com/user-attachments/assets/04b26bb0-0d45-4ac2-846b-6337925c2b2c" />
 
 A modern, responsive e-commerce landing page concept for **Smart
 Telecom**, a mobile phone and technology accessories business. The
